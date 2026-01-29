@@ -1,0 +1,22 @@
+================================================================================
+VOICE-BASED DEPRESSION DETECTION SYSTEM
+================================================================================
+
+Total depressed samples: 410
+Total non-depressed samples: 400
+
+MODEL PERFORMANCE SUMMARY:
+- SVM (RBF): Accuracy=98.15%, F1=98.16%
+- Random Forest: Accuracy=98.15%, F1=98.16%
+- KNN: Accuracy=98.15%, F1=98.16%
+- Decision Tree: Accuracy=96.91%, F1=96.93%
+
+🏆 BEST PERFORMING MODEL: SVM (RBF)
+Accuracy: 98.15%
+F1-Score: 98.16%
+
+OUTPUTS SAVED IN:
+- Cleaned audio files: C:\Users\RAJ KUMAR\OneDrive\Desktop\Depression Detection Through EEG and VOICE\dataset\output\cleaned_audio
+- Extracted features: C:\Users\RAJ KUMAR\OneDrive\Desktop\Depression Detection Through EEG and VOICE\dataset\output\extracted_features.csv
+- Visualization plots: C:\Users\RAJ KUMAR\OneDrive\Desktop\Depression Detection Through EEG and VOICE\dataset\output\plots
+- Trained models: C:\Users\RAJ KUMAR\OneDrive\Desktop\Depression Detection Through EEG and VOICE\dataset\output\trained_models
